@@ -1,0 +1,18 @@
+- shell:
+    - [git submodule update --init --recursive, Installing submodules]
+
+- link:
+    # prezto
+    ~/.zprezto: prezto
+    ~/.zlogin: prezto/runcoms/zlogin
+    ~/.zlogout: prezto/runcoms/zlogout
+    ~/.zpreztorc: zpreztorc
+    ~/.zprofile: prezto/runcoms/zprofile
+    ~/.zshenv: prezto/runcoms/zshenv
+    ~/.zshrc: zshrc
+    # vim
+    ~/.vimrc: vimrc
+    ~/.vim: vim
+    # misc
+    ~/.alias: alias
+
