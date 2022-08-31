@@ -14,6 +14,7 @@ fi
 PATH=$PATH:/opt/pycharm/bin
 PATH=$PATH:/opt/flutter/bin
 PATH=$PATH:/opt/android-studio/bin
+PATH=$PATH:/opt/ghidra
 
 EDITOR='vim'
 VISUAL='vim'
