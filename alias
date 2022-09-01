@@ -1,0 +1,5 @@
+echo "Sourcing from .alias"
+
+# editing dotfiles
+alias vz="vim ~/.zshrc && source ~/.zshrc"
+alias va="vim ~/.alias && source ~/.alias"
