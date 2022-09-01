@@ -15,7 +15,3 @@
     ~/.vim: vim
     # misc
     ~/.alias: alias
-    ~/.iterm2/com.googlecode.iterm2.plist: 
-      create: true
-      path: iterm2.plist
-
